@@ -1,4 +1,4 @@
-# Olá, me chamo: Guilherme Bueno 👋
+# Olá, me chamo Guilherme Bueno 👋
 
 Desenvolvedor Full Stack.
 
@@ -11,11 +11,12 @@ Desenvolvedor Full Stack.
 - **Pré-processadores & Frameworks CSS:** Sass (SCSS), LESS, Bootstrap
 
 ### **Backend, APIs & Banco de Dados**
-- **Linguagens & Ecossistema:** Java
-- **APIs & Banco de Dados:** Consumo e criação de RESTful APIs, SQL
+- **Linguagens & Ambientes:** Java, Node.js (npm)
+- **APIs & Banco de Dados:** Consumo e criação de RESTful APIs, SQL, PostgreSQL
 
-### **Integrações**
+### **Integrações, Ferramentas & Deploy**
 - **Automação & Comunicação:** Integrações com WhatsApp utilizando **Baileys**
+- **Versionamento & Hospedagem:** Git, Vercel
 
 ---
 
@@ -29,5 +30,5 @@ Desenvolvedor Full Stack.
 
 ## 📬 Entre em Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/guilherme-bueno-dev/
-- **E-mail:** buenoguilherme2004@gmail.com
+- **LinkedIn:** [Guilherme Bueno](https://www.linkedin.com/in/guilherme-bueno-dev/)
+- **E-mail:** [buenoguilherme2004@gmail.com](mailto:buenoguilherme2004@gmail.com)
