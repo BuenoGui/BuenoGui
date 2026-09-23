@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, me chamo: Guilherme Bueno 👋
 
-<!--
-**BuenoGui/BuenoGui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+### **Frontend & Estilização**
+- **Linguagens & Frameworks:** HTML5, CSS3, JavaScript, TypeScript, React, Vue.js
+- **Pré-processadores & Frameworks CSS:** Sass (SCSS), LESS, Bootstrap
+
+### **Backend, APIs & Banco de Dados**
+- **Linguagens & Ecossistema:** Java
+- **APIs & Banco de Dados:** Consumo e criação de RESTful APIs, SQL
+
+### **Integrações**
+- **Automação & Comunicação:** Integrações com WhatsApp utilizando **Baileys**
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuenoGui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuenoGui&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 📬 Entre em Contato
+
+- **LinkedIn:** https://www.linkedin.com/in/guilherme-bueno-dev/
+- **E-mail:** buenoguilherme@gmail.com
